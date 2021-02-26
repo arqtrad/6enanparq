@@ -2,7 +2,7 @@
 title      : "Em busca de (uma?) arquitetura tradicional brasileira"
 author     : "Pedro Paulo Palazzo"
 date       : 2020-03-31
-csl        : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
+csl        : "_csl/associacao-brasileira-de-normas-tecnicas.csl"
 lang       : pt-BR
 suppress-bibliography: False
 ---
