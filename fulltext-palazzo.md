@@ -95,7 +95,81 @@ do que essa conceituação no nosso campo disciplinar. As definições do
 que é arquitetura são praticamente tantas quanto os autores que se
 preocuparam com o assunto. Mesmo assim, elas tendem a se agrupar em três
 grande categorias que correspondem a cada um dos "pés" do tripé
-vitruviano: solidez, utilidade e beleza.
+vitruviano:
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+Venustas, ou Beleza
+
+: Corresponde ao conceito de que arquitetura é arte ou, no mínimo, de
+  que arquitetura é construção feita com uma "intenção plástica"
+  [@costa:1952consideracoes, 4].
+
+Utilitas, ou Funcionalidade
+
+: Corresponde à definição de arquitetura como espaço socialmente
+  organizado.
+
+Firmitas, ou Solidez
+
+: Arquitetura é construção.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Cada uma dessas definições é útil para alguns propósitos específicos.
+Falar de arquitetura como sendo uma disciplina artística significa
+enfatizar o estilo e a estética. Esse enfoque predomina nas histórias
+gerais da arquitetura que seguem o modelo de uma *história dos estilos
+artísticos*. Já enfatizar o aspecto da arquitetura como organização
+social do espaço [@hillier:2002society] nos faz olhar para a concepção
+do espaço como a característica central das obras arquitetônicas e,
+claro, para as consequências socioespaciais da prática profissional.
+
+No recorte da arquitetura como arte, é perfeitamente possível distinguir
+o *modernismo* enquanto um estilo daqueles outros estilos que são
+tradicionais ou *tradicionalistas*. Só que essa distinção acaba
+privilegiando uma arquitetura *de estilo*, ou seja, obras eruditas onde
+os marcadores de um estilo específico --- certas configurações de
+ornamento ou da falta de ornamento --- são visualmente dominantes.
+
+Reciprocamente, alguns dos mais importantes historiadores do século
+[XX]{.smallcaps} --- de Sigfried Giedion a Alan Colquhoun e Reyner
+Banham [@giedion:1961space; @colquhoun:2002modern; @banham:1962guide]
+--- mostraram que existe uma diferença fundamental na articulação do
+espaço entre o modernismo e a arquitetura pré-moderna, por assim dizer.
+Para além desse recorte, que ainda é tão erudito quanto o anterior,
+temos um problema mais básico. Dizer que arquitetura é espaço
+socialmente organizado pode nos dar ferramentas para analisar aquilo que
+*já se definiu* como sendo "arquitetura" --- é o caso de metodologias
+como a sintaxe espacial [@hillier:1984social]. Mas isso não nos diz *o
+que é* arquitetura e o que não é: ou seja, os limites da disciplina
+tanto na prática quanto na pesquisa. Em última análise, qualquer coisa
+existe no espaço e qualquer ação humana é social.
+
+Por isso vamos nos voltar para a última definição: arquitetura é
+construção. As obras de arquitetura são construções --- e *todas* as
+construções são arquitetura. O universo disciplinar que diz respeito à
+arquitetura, portanto, é o de todos os processos em torno à construção.
+
+Nesse contexto, existe uma diferença simples entre a arquitetura
+*tradicional* e a *moderna* que vai além do estilo ou da espacialidade
+que distinguem o *modernismo* do *tradicionalismo*. Essa diferença está
+justamente nos processos de produção das construções, que podem ser
+predominantemente artesanais e locais, na arquitetura tradicional, ou
+industrializados e com cadeias produtivas muito extensas, na arquitetura
+moderna. Essa distinção entre processos construtivos tradicionais ou
+modernos nem sempre se rebate numa distinção clara entre estilos
+tradicionalistas ou modernistas.
+
+A arquitetura tradicional, e portanto os modos tradicionais de
+construir, são processos predominantemente locais no que diz respeito
+tanto à obtenção de materiais quanto ao seu processamento. Ressalvadas
+as devidas exceções na arquitetura monumental, a construção tradicional
+é uma empreitada local ou, no máximo, regional. De resto, a lenda de que
+as igrejas coloniais de Salvador teriam sido construídas com pedras
+trazidas como lastro de navios é isso mesmo: uma lenda, como demonstrou
+Mário Mendonça. O paradoxo positivo da arquitetura tradicional é esse:
+ela tem um princípio universal que gera uma infinita diversidade de
+resultados --- diferentes sistemas construtivos, configurações espaciais
+e articulações plásticas.
 
 # História da arquitetura ou arquitetura tradicional? #
 
