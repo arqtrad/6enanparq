@@ -8,15 +8,9 @@
 
 # Generated binary files (PDF, Word, etc.) go here {{{1
 ## Book build output
+## CSL
 _book
-assets
-fig
-
-# For when you want to keep downloaded or received files next to your
-# repo without committing them (bc they're usually binaries).
-_share
-assets
-fig
+_csl
 
 # Jekyll {{{1
 _site/

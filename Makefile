@@ -45,7 +45,8 @@ _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 # ===================
 
 _csl :
-	git clone https://github.com/citation-style-language/styles.git _csl
+	git clone --depth=1 \
+		https://github.com/citation-style-language/styles.git _csl
 
 serve :
 	bundle exec jekyll serve
