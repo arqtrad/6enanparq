@@ -9,11 +9,14 @@ suppress-bibliography: False
 
 # Introdução #
 
+## {data-background-image="https://i.pinimg.com/originals/81/fd/e7/81fde79ddf14703334fd83cfcba19538.jpg"}
+
 Andamos em busca de uma arquitetura tradicional brasileira. Isso não é
 uma coisa para se sair dizendo à toa, especialmente por quem deveria
 reconhecer a diversidade da arquitetura e a complexidade da história.
 Então, *por que* uma arquitetura tradicional brasileira? Em primeiro
-lugar, porque a arquitetura tradicional é uma realidade tangível:
+lugar, porque a arquitetura tradicional é uma realidade tangível: a
+gente pode até não saber definir o que é arquitetura tradicional, mas
 qualquer um percebe à primeira vista a diferença entre uma construção
 tradicional e outra moderna. Em segundo lugar, porque a prática de
 ofícios tradicionais é um processo eficiente de transmissão de
@@ -21,6 +24,12 @@ conhecimentos relevantes para a sociedade: é daí que vem a valorização
 do patrimônio imaterial. Por último, e em consequência dos dois
 primeiros motivos, a tradição rebate todos os tempos da história no
 presente da experiência vivida.
+
+## {data-background-image="https://i.pinimg.com/originals/93/6f/bd/936fbd07609637b47ab0aacef765431e.jpg"}
+
+## {data-background-image="https://i.pinimg.com/originals/b0/ec/9e/b0ec9e1e102b090a1670a6de2dfa8b31.jpg"}
+
+## {data-background-image="https://i.pinimg.com/originals/41/2d/22/412d223ca43a364322d154287c05d8bd.jpg"}
 
 Andar em busca de uma arquitetura tradicional brasileira, portanto, é
 adotar um certo modo de falar de um ambiente construído existente, dos
@@ -30,6 +39,12 @@ existência *na prática* desses três aspectos tem sido desacreditada *na
 pesquisa* e, em consequência, *no ensino* de arquitetura. O objetivo
 deste breve ensaio é mostrar que o conceito de tradição é uma ferramenta
 relevante para conhecer a arquitetura brasileira.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Goiás_(Goiás)_5.jpg/1280px-Goiás_(Goiás)_5.jpg"}
+
+<!--_,-->
+
+## {data-background-image="https://i.pinimg.com/originals/e0/13/46/e013468d32461362e6a86a60b4e7ed1b.jpg"}
 
 O conceito de arquitetura tradicional estabelece um marco explicativo
 estritamente ancorado na realidade dos processos de circulação e
@@ -44,6 +59,10 @@ de marco explicativo da realidade e de modo de produzir essa mesma
 realidade, é o que caracteriza o valor do conceito de *arquitetura
 tradicional brasileira* tanto para a pesquisa quanto para a prática da
 arquitetura. Vamos discutir esse valor segundo os três temas seguintes:
+
+## {data-background-image="https://i.pinimg.com/originals/67/0f/42/670f42c9d438276f7a5f82402ab625c0.jpg"}
+
+## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 Objeto tangível
@@ -87,7 +106,7 @@ as linhagens da tradição sem cair numa --- interminável --- regressão às
 origens, nem numa indesejável teleologia que se sirva do passado apenas
 à luz da ideologia hegemônica no presente.
 
-# A natureza tangível da arquitetura tradicional #
+# Objeto tangível #
 
 Tentar enquadrar o conceito arquitetura tradicional subentende que já
 sabemos como conceituar arquitetura em geral. Só que nada é mais incerto
@@ -96,6 +115,8 @@ que é arquitetura são praticamente tantas quanto os autores que se
 preocuparam com o assunto. Mesmo assim, elas tendem a se agrupar em três
 grande categorias que correspondem a cada um dos "pés" do tripé
 vitruviano:
+
+## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 Venustas, ou Beleza
@@ -113,6 +134,8 @@ Firmitas, ou Solidez
 
 : Arquitetura é construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/97/db/88/97db88b3111e39f3d65b2d987df72a3a.jpg" data-background-position="top"}
 
 Cada uma dessas definições é útil para alguns propósitos específicos.
 Falar de arquitetura como sendo uma disciplina artística significa
@@ -149,6 +172,8 @@ construção. As obras de arquitetura são construções --- e *todas* as
 construções são arquitetura. O universo disciplinar que diz respeito à
 arquitetura, portanto, é o de todos os processos em torno à construção.
 
+## {data-background-image="https://i.pinimg.com/originals/d9/ab/c1/d9abc1658e244a1de600b86f0a509864.jpg"}
+
 Nesse contexto, existe uma diferença simples entre a arquitetura
 *tradicional* e a *moderna* que vai além do estilo ou da espacialidade
 que distinguem o *modernismo* do *tradicionalismo*. Essa diferença está
@@ -171,11 +196,90 @@ ela tem um princípio universal que gera uma infinita diversidade de
 resultados --- diferentes sistemas construtivos, configurações espaciais
 e articulações plásticas.
 
-# História da arquitetura ou arquitetura tradicional? #
+Dito de modo mais tangível: como a cadeia produtiva da construção
+tradicional é predominantemente local e regional, o processamento dos
+materiais de construção tende a ser mais simples, menos intenso e,
+claro, menos industrializado. Desse processo resultam duas
+características construtivas tangíveis:
 
-Trata-se, portanto, de um olhar retrospectivo que sobrepõe, tal qual o
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Compressão é preferível à flexão
+
+2. Repetição com variações
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/da/52/15/da52151d618cae83acf3dc002e938f02.jpg"}
+
+No que diz respeito à compressão em primeiro lugar, as grandes massas de
+parede resolvem de uma tacada só uma série de requisitos de desempenho
+da edificação. As estruturas aparentemente superdimensionadas para as
+cargas verticais na verdade consideram também o contraventamento para
+flambagem da própria estrutura e para cargas horizontais, como o vento
+ou terremotos. A espessura das paredes, e às vezes dos pisos, também
+atende ao isolamento térmico e acústico.
+
+## {data-background-image="https://i.pinimg.com/originals/d0/22/b2/d022b2d18b6136da7de88a5c621ff36c.jpg"}
+
+O caráter artesanal da construção tradicional permite, em segundo lugar,
+adaptações nos módulos dos elementos da arquitetura. Às vezes, essas
+adaptações não são só possíveis, mas mesmo necessárias. A arquitetura
+moderna tenta realizar em cada obra expressões estéticas originais a
+partir de componentes industriais idênticos. A arquitetura tradicional,
+ao contrário, não tem problema em alinhar composições parecidas entre
+si, usando componentes que são sempre ligeiramente diferentes de uma
+obra para a outra.
+
+# Modo de fazer #
+
+A tradição como operatividade é o problema mais espinhoso deste ensaio.
+
+Objetos do passado a serem preservados vs saberes a serem mantidos
+
+Coitadismo dos atrasados
+
+Técnicas de conservação e restauro enclausuradas vs construção
+tradicional como prática viva
+
+A tradição é *parte da realidade,* mas também *ferramenta para explicar
+essa mesma realidade.* Essa dupla natureza da tradição é indispensável
+ao resgate de uma historiografia disciplinar da arquitetura --- por um
+lado, *versando sobre* a arquitetura enquanto ofício e processo de
+produção do ambiente construído e, por outro lado, *fazendo parte* dos
+atributos disciplinares do ofício de arquiteto. O conceito de *tradição*
+expande o alcance do conceito de *oficina,* atualmente aplicado, por
+exemplo, à atuação dos mestres barrocos [@oliveira:2002aleijadinho;
+@pedrosa:2013oficina29] --- ao passo que *oficina* engloba as relações
+materiais dos artistas com seus clientes e as relações de trabalho,
+*tradição* resgata os aspectos propriamente artísticos do seu trabalhas
+relações de trabalho, aquele resgata os aspectos propriamente artísticos
+da sua atuação.
+
+
+# Lugar > Tempo #
+
+Hoje em dia, pelo menos no nosso mundo acadêmico, é quase impossível
+falar de teoria da arquitetura sem se referir à historicidade da
+disciplina. Essa historicidade, no contexto contemporâneo, tende para
+uma análise cada vez mais fragmentada dos nossos objetos, um processo
+inevitável descrito por Stephen Bann e Manfredo Tafuri
+[@bann:1987clio23; @tafuri:1980sfera]. A *estética do fragmento*, por
+assim dizer, é indispensável ao ofício da História. O fragmento
+historiográfico é um instantâneo, uma foto de um certo modo de olhar
+para as fontes: um modo que comprime o espaço na singularidade da tese
+do texto histórico, e desdobra o tempo como argumento.
+
+A questão é que, no ofício da Arquitetura, a foto não substitui a
+construção. O instantâneo da arquitetura não enquadra nem separa um
+aspecto em detrimento dos outros --- ao contrário, ele precisa integrar
+todos os fragmentos numa paisagem simultânea. A arquitetura tradicional
+é portanto, um olhar retrospectivo que sobrepõe, como se fosse um
 palimpsesto freudiano, a multiplicidade de camadas do passado na
-singularidade do momento presente.
+singularidade do momento presente. Ela comprime o tempo histórico na
+singularidade do presente, e se espalha no espaço da paisagem urbana ou
+rural. Essa compressão do tempo deixou de ser óbvia para nós, eruditos
+modernos e eventualmente pós-modernos.
 
 A própria existência da arquitetura tradicional enquanto uma categoria
 analítica válida foi desacreditada pela falência de discursos que usavam
@@ -235,26 +339,12 @@ uma paisagem urbana de caráter vernáculo na cidade de Paraty, em meados
 do século XX.
 
 
-# Da oficina à tradição e ao seu resgate #
+# Mas o Brasil não é a Europa! #
 
-A tradição é *parte da realidade,* mas também *ferramenta para explicar
-essa mesma realidade.* Essa dupla natureza da tradição é indispensável
-ao resgate de uma historiografia disciplinar da arquitetura --- por um
-lado, *versando sobre* a arquitetura enquanto ofício e processo de
-produção do ambiente construído e, por outro lado, *fazendo parte* dos
-atributos disciplinares do ofício de arquiteto. O conceito de *tradição*
-expande o alcance do conceito de *oficina,* atualmente aplicado, por
-exemplo, à atuação dos mestres barrocos [@oliveira:2002aleijadinho;
-@pedrosa:2013oficina29] --- ao passo que *oficina* engloba as relações
-materiais dos artistas com seus clientes e as relações de trabalho,
-*tradição* resgata os aspectos propriamente artísticos do seu trabalhas
-relações de trabalho, aquele resgata os aspectos propriamente artísticos
-da sua atuação.
+Os saberes e modos de vida das comunidades são indissociáveis dos
+processos de produção do ambiente construído.
 
+# Referências # {.unnumbered}
 
-# Conclusão #
-
-# Referências {.unnumbered} #
-
-::: {#refs}
+::: {#refs .allowframebreaks}
 :::
