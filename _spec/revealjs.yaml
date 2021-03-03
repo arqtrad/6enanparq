@@ -1,8 +1,7 @@
 from            : markdown
 to              : revealjs
-bibliography    : biblio.bib
-cite-method     : citeproc
-fail-if-warnings: true
+bibliography    : "_data/biblio.yaml"
+fail-if-warnings: false
 file-scope      : true
 filters:
   - pandoc-crossref
@@ -16,7 +15,7 @@ metadata:
   tableTitle    : Tabela
 slide-level     : 2
 standalone      : true
-toc             : true
+toc             : false
 toc-depth       : 1
 variables:
   css           : "../assets/css/slide.css"
@@ -27,6 +26,3 @@ variables:
   width         : 1920
   progress      : 0
   revealjs-url  : "../reveal.js"
-  title-slide-attributes:
-    data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
-    data-background-size: cover

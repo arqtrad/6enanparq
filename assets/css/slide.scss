@@ -24,16 +24,21 @@ html {
 .reveal {
   //background-color: darken( $backgroundColor, 15% );
   h1, h2 {
+    background: #faecd6ff;
     font-family: $headingFont;
     font-weight: normal;
+    padding: 1.4rem;
+    &:empty {
+      display: none;
+    }
+  }
+  h1.unnumbered {
+    margin: 0 0 20px 0;
   }
 
   section.has-dark-background,
   section#title-slide {
-    text-shadow: 0 0 20px #294469;
     &, h1, h2, h3, h4, h5, h6 {
-      color: #f4dcb4;
-      text-shadow: 0 0 20px #294469, 0 0 10px #294469;
       font-family: $headingFont;
       font-weight: normal;
     }
@@ -57,10 +62,9 @@ html {
     blockquote,
     div.fragment,
     h3, h4, h5,
-    ol {
-      background: #faecd6cc;
-      margin-left: 15%;
-      margin-right: 15%;
+    dl, ol, ul {
+      margin-left: 0;
+      margin-right: 50%;
       padding: 1.4rem;
     }
     div.fragment {
@@ -68,11 +72,16 @@ html {
         background: transparent;
       }
     }
+    dl, ul, ol {
+      text-align: left;
+    }
     dt, h3, h4, h5 {
+      background: #faecd6ff;
       font-family: $headingFont;
       font-size: $heading2Size;
       font-variant: small-caps;
       font-weight: normal;
+      padding: 1.4rem;
       text-transform: lowercase;
     }
     p, dd, figure {
@@ -86,6 +95,13 @@ html {
       padding: 0;
       visibility: visible;
     }
+    #refs {
+      text-align: left;
+    }
+  }
+
+  section.unnumbered {
+    background: #faecd6ff;
   }
 
   figcaption,
@@ -104,6 +120,7 @@ html {
 
   blockquote,
   ol {
+    background: #faecd6ff;
     font-size: $heading4Size;
     font-style: normal;
     //text-align: left;
@@ -125,5 +142,9 @@ html {
 
   .epigraph > blockquote > p {
     font-style: italic;
+  }
+
+  #refs {
+    padding: 1.4rem;
   }
 }

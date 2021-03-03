@@ -7,7 +7,7 @@ lang       : pt-BR
 suppress-bibliography: False
 ---
 
-# Andamos em busca de uma arquitetura tradicional brasileira #
+# Andamos em busca de uma arquitetura tradicional brasileira # {.unlisted}
 
 ## {data-background-image="https://i.pinimg.com/originals/81/fd/e7/81fde79ddf14703334fd83cfcba19538.jpg"}
 
@@ -309,12 +309,6 @@ Saber local
   própria localidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
-
-Aí você pode me dizer, "mas eu não estou interessado em durabilidade,
-estou interessado no progresso da técnica, ou na liberdade artística". É
-direito seu, mas é responsabilidade sua também. Sigamos.
-
 ## {data-background-image=""}
 
 Objetos do passado a serem preservados vs saberes a serem mantidos
@@ -331,7 +325,9 @@ Até agora, vimos que a diferença entre arquitetura tradicional e moderna
 é tangível e, em geral, evidente. Também vimos que a arquitetura
 tradicional não se caracteriza só por essa diferença aparente, mas que
 se trata sobretudo de adotar processos produtivos sustentáveis do ponto
-de vista ambiental, social e cultural.
+de vista ambiental, social e cultural. Quando insistimos na importância
+desses processos produtivos e, sobretudo, na relação desses processos
+com a plástica da arquitetura tradicional
 
 Hoje em dia, pelo menos no nosso mundo acadêmico, é quase impossível
 falar de teoria da arquitetura sem se referir à historicidade da
@@ -413,7 +409,7 @@ uma paisagem urbana de caráter vernáculo na cidade de Paraty, em meados
 do século XX.
 
 
-# Mas o Brasil não é a Europa! #
+# Mas o Brasil não é a Europa! # {.unlisted}
 
 Agora é a hora que todo mundo diz: "ah! mas isso pode até funcionar no
 primeiro mundo... a Europa pode se dar o luxo de fazer arquitetura
@@ -437,8 +433,11 @@ pensar no tanto que os arquitetos e engenheiros contemporâneos se
 beneficiaram da concentração de poder e renda na construção moderna, em
 detrimento dos saberes locais e periféricos.
 
-Os saberes e modos de vida das comunidades são indissociáveis dos
-processos de produção do ambiente construído.
+Aí você pode me dizer, "mas eu não estou interessado em durabilidade,
+estou interessado no progresso da técnica, ou na liberdade artística". É
+direito seu, mas é responsabilidade sua também. O que importa é ter
+consciência de que os saberes e modos de vida das comunidades são
+indissociáveis dos processos de produção do ambiente construído.
 
 A tradição é *parte da realidade,* mas também *ferramenta para explicar
 essa mesma realidade.* Essa dupla natureza da tradição é indispensável
@@ -453,7 +452,9 @@ dos artistas com seus clientes e as relações de trabalho, enquanto o de
 *tradição* nos coloca na perspectiva muito mais ampla da transmissão de
 saberes no tempo e no espaço.
 
-# Referências # {.unnumbered}
+# palazzo@unb.br #
+
+# Referências # {.unnumbered .unlisted}
 
 ::: {#refs .allowframebreaks}
 :::

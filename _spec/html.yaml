@@ -1,7 +1,6 @@
 from            : "markdown+tex_math_single_backslash"
-bibliography    : "biblio.bib"
-cite-method     : citeproc
-fail-if-warnings: true
+bibliography    : "_data/biblio.yaml"
+fail-if-warnings: false
 file-scope      : true
 filters:
   - pandoc-crossref
