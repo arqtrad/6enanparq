@@ -3,7 +3,7 @@
 # Where make should look for things
 VPATH = lib
 vpath %.csl _csl
-vpath %.yaml .:spec
+vpath %.yaml .:_spec
 vpath default.% lib/templates
 vpath reference.% lib/templates
 # Sets a base directory for project files that reside somewhere else,
@@ -22,7 +22,7 @@ build : $(PAGES_OUT) _config.yml
 	bundle exec jekyll build
 
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
-	pandoc -o $@ -d spec/jekyll.yaml $<
+	pandoc -o $@ -d _spec/jekyll.yaml $<
 	rm docs/README.md
 
 .INTERMEDIATE : $(ENANPARQ_TMP) _book/6enanparq.odt
@@ -32,14 +32,14 @@ _book/6enanparq.docx : _book/6enanparq.odt
 
 _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 	6enanparq-metadata.yaml default.opendocument reference.odt | _csl
-	pandoc -o $@ -d spec/6enanparq-sl.yaml \
+	pandoc -o $@ -d _spec/6enanparq-sl.yaml \
 		6enanparq-toc.md 6enanparq-intro.md \
 		6enanparq-palazzo.tmp 6enanparq-florentino.tmp \
 		6enanparq-duany.tmp 6enanparq-gil_cornet.tmp \
 		6enanparq-craveiro.tmp 6enanparq-metadata.yaml
 
 %.tmp : %.md concat.yaml _data/biblio.yaml
-	pandoc -o $@ -d spec/concat.yaml $<
+	pandoc -o $@ -d _spec/concat.yaml $<
 
 # Install and cleanup {{{1
 # ===================
