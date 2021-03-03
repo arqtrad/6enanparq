@@ -44,17 +44,15 @@ tempo histórico no presente. Nosso primeiro desafio nessa busca é que a
 existência *na prática* desses três aspectos tem sido desacreditada *na
 pesquisa* e, em consequência, *no ensino* de arquitetura. O objetivo
 deste breve ensaio é mostrar que o conceito de tradição é uma ferramenta
-relevante para conhecer a arquitetura brasileira.
+relevante para conhecer e praticar a arquitetura brasileira.
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Goiás_(Goiás)_5.jpg/1280px-Goiás_(Goiás)_5.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/de/ec/99/deec993f2161f670c563c45459c32c6e.jpg"}
 
 <!--_,-->
 
 ## {data-background-image="https://i.pinimg.com/originals/e0/13/46/e013468d32461362e6a86a60b4e7ed1b.jpg"}
 
-O conceito de arquitetura tradicional estabelece um marco explicativo
-estritamente ancorado na realidade dos processos de circulação e
-consolidação de práticas edilícias no Brasil. Uma arquitetura
+Uma arquitetura
 tradicional brasileira, entendida como ferramenta para descrever a
 realidade, reconhece, portanto, a imensa diversidade de tradições
 arquitetônicas no Brasil, e as suas relações com tradições de outras
@@ -81,7 +79,7 @@ Objeto tangível
 
 Modo de fazer
 
-: A tradição é, portanto, um *processo* de transmissão cultural 
+: A tradição é, portanto, um *processo* de transmissão cultural onde
   o papel preponderante é desempenhado pela receptora --- a pessoa,
   organização, ou comunidade que assume para si o teor do conhecimento
   tradicional e a responsabilidade por mantê-lo em vigor. Esse terceiro
@@ -147,10 +145,7 @@ Cada uma dessas definições é útil para alguns propósitos específicos.
 Falar de arquitetura como sendo uma disciplina artística significa
 enfatizar o estilo e a estética. Esse enfoque predomina nas histórias
 gerais da arquitetura que seguem o modelo de uma *história dos estilos
-artísticos*. Já enfatizar o aspecto da arquitetura como organização
-social do espaço [@hillier:2002society] nos faz olhar para a concepção
-do espaço como a característica central das obras arquitetônicas e,
-claro, para as consequências socioespaciais da prática profissional.
+artísticos*.
 
 No recorte da arquitetura como arte, é perfeitamente possível distinguir
 o *modernismo* enquanto um estilo daqueles outros estilos que são
@@ -158,6 +153,21 @@ tradicionais ou *tradicionalistas*. Só que essa distinção acaba
 privilegiando uma arquitetura *de estilo*, ou seja, obras eruditas onde
 os marcadores de um estilo específico --- certas configurações de
 ornamento ou da falta de ornamento --- são visualmente dominantes.
+
+## {data-background-image="https://i.pinimg.com/originals/84/ea/56/84ea567bfdb6e6406cbc2dbb8000d641.jpg"}
+
+Daí para resvalarmos para o determinismo histórico é um pulo. O que
+o determinismo nos diz é que os estilos têm lugar (no tempo) e existem
+estilos fora do lugar. Já aprendemos a gostar da arquitetura eclética do
+século [XIX]{.smallcaps}, mas ainda não aprendemos a gostar do ecletismo
+como um modo legítimo de fazer arquitetura.
+
+## {data-background-image="https://i.pinimg.com/originals/60/41/ae/6041ae7bec9c96a204bcafb5b86b0f8a.png"}
+
+Já enfatizar o aspecto da arquitetura como organização
+social do espaço [@hillier:2002society] nos faz olhar para a concepção
+do espaço como a característica central das obras arquitetônicas e,
+claro, para as consequências socioespaciais da prática profissional.
 
 Dizer que arquitetura é espaço socialmente organizado nos faz cair em
 outra dificuldade. Isso não nos diz *o
@@ -241,7 +251,7 @@ moderna. Essa distinção entre processos construtivos tradicionais ou
 modernos nem sempre se rebate numa distinção clara entre estilos
 tradicionalistas ou modernistas.
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/82/06/9a/82069aad6d646d3b48005313b5a57a8f.png"}
 
 A arquitetura tradicional, e portanto os modos tradicionais de
 construir, são processos predominantemente locais no que diz respeito
@@ -269,7 +279,7 @@ vida: claro que é muito melhor se os nossos componentes industrializados
 vierem com uma etiqueta dizendo que eles duram cinquenta anos e que eles têm
 uma pegada de carbono mensurável.
 
-## {data-background-image=""}
+## {data-background-image="https://live.staticflickr.com/65535/51000303087_06f8c5f345_k_d.jpg"}
 
 Como que a pobre da arquitetura arquitetura tradicional vai poder
 competir com tanta etiquetagem? Não existe análise de ciclo de vida
@@ -309,15 +319,79 @@ Saber local
   própria localidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/54/36/d9/5436d9fafcdc91565dc2a5363a6d29f4.jpg"}
 
-Objetos do passado a serem preservados vs saberes a serem mantidos
+Esses aspectos têm algumas implicações diretas para áreas específicas da
+arquitetura. Uma delas é a preservação do patrimônio cultural. Vamos
+começar pelo mais evidente: a conservação e o restauro de construções
+são hoje em dia competências altamente especializadas. Os profissionais
+da construção civil corrente não são treinados para atuar em construções
+históricas (mesmo modernistas).
 
-Coitadismo dos atrasados
+Reciprocamente, uma equipe de restauradores especializados não é algo
+que esteja ao alcance da maioria dos proprietários de edificações
+históricas. Nem essa equipe seria necessária nas ações de conservação
+preventiva mais corriqueiras; o programa Monumenta, com todas as suas
+falhas, deu um passo na direção certa com a tentativa de popularizar
+manuais técnicos. Como sabemos, o programa acabou não tendo o efeito
+multiplicador esperado, e a manutenção cotidiana da arquitetura
+tradicional ainda é um bicho de sete cabeças para a maioria dos
+profissionais que atuam no Brasil.
 
-Técnicas de conservação e restauro enclausuradas vs construção
-tradicional como prática viva
+## {data-background-image="https://i.pinimg.com/originals/92/45/a9/9245a9293607aa0ef2c350e8beb70e59.jpg"}
 
+Esse enclausuramento dos saberes construtivos tradicionais no campo
+especializado do restauro tem a ver em parte, é claro, com a baixa
+capacitação técnica da mão de obra brasileira em geral, por motivos
+socioeconômicos que rendem discussão para livros inteiros. Um aspecto
+mais diretamente relacionado à disciplina da arquitetura é a ideologia
+de que a arquitetura tradicional está condenada a ser um vestígio
+arqueológico no qual só os especialistas podem mexer.
+
+## {data-background-image="https://i.pinimg.com/originals/db/ec/6d/dbec6d71dc658554fa00659b5f37b56b.jpg"}
+
+Ao longo dos últimos quarenta anos o campo do patrimônio viu crescer a
+importância do valor social e da apropriação comunitária, por um lado, e
+no Brasil, por outro lado, a desconstrução justa, talvez um pouco
+exagerada, do "estilo patrimônio". Mesmo assim, ainda vigora um certo
+tabu no "discurso autorizado". Esse tabu não admite continuidade entre
+os imóveis históricos preservados e uma prática corrente da construção
+tradicional nos dias de hoje. Já se parte de um juízo *a priori* que
+decreta que a construção tradicional morreu, foi irremediavelmente
+suplantada pela construção moderna, e não deve ser ressuscitada sob pena
+de anátema historicista.
+
+## {data-background-image="https://i.pinimg.com/originals/7d/f7/f9/7df7f953dce6c537c4a96422291a0326.jpg"}
+
+Nesse contexto, os saberes da arquitetura tradicional são tratados como
+reserva de especialistas em restauro e não um conhecimento vivo que a
+própria comunidade seria capaz de deter, com raras exceções.
+
+Essas exceções, por sua vez, acabam por reforçar um estigma de que só
+comunidades rotuladas como tradicionais teriam legitimidade para
+continuar produzindo arquitetura tradicional. Para os amigos tudo, para
+os inimigos, a carta de Veneza! Esses dois pesos e duas medidas adotados
+no patrimônio cultural são inerentes à concepção historicista desse
+campo.
+
+## {data-background-image="https://live.staticflickr.com/65535/51000345802_8f47702cee_k_d.jpg"}
+
+Os arquitetos e restauradores, claro, usam exemplos extremos para
+argumentar de que não se pode confiar na comunidade para cuidar do seu
+próprio patrimônio. Pois eu digo que é exatamente o contrário: é a
+recusa ideológica em ensinar técnicas tradicionais nos ofícios da
+construção que faz com que essas e outras barbaridades aconteçam. Uma
+casa em adobe toda rebocada com argamassa de cimento industrializado não
+acontece por causa da ignorância de *um* cidadão bem-intencionado; ela
+acontece porque os saberes e modos de fazer tradicionais da construção
+foram quase totalmente eliminados da prática construtiva corrente. Não é
+possível preservar conjuntos urbanos ou rurais inteiros com o mesmo
+preciosismo historicista que se aplica à autenticidade do restauro
+artístico em monumentos excepcionais. Felizmente, cada vez mais
+profissionais estão percebendo esse fato [@cymbalista:2017patrimonio;
+@marins:2016novos29]. 
+
+## {data-background-image="https://i.pinimg.com/originals/c9/cd/b3/c9cdb31c72bb36e7c2be9b82d7321561.jpg"}
 
 # Lugar > Tempo #
 
@@ -325,9 +399,13 @@ Até agora, vimos que a diferença entre arquitetura tradicional e moderna
 é tangível e, em geral, evidente. Também vimos que a arquitetura
 tradicional não se caracteriza só por essa diferença aparente, mas que
 se trata sobretudo de adotar processos produtivos sustentáveis do ponto
-de vista ambiental, social e cultural. Quando insistimos na importância
-desses processos produtivos e, sobretudo, na relação desses processos
-com a plástica da arquitetura tradicional
+de vista ambiental, social e cultural. As contradições que acabamos de
+discutir a respeito da continuidade de modos tradicionais de construir
+dizem respeito ao último problema que temos para abordar. Arquitetura
+tradicional é uma arquitetura que quer ser *do seu lugar*, em oposição a
+uma arquitetura que pretende ser *do seu tempo*.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Piranesi-10010.jpg/1280px-Piranesi-10010.jpg"}
 
 Hoje em dia, pelo menos no nosso mundo acadêmico, é quase impossível
 falar de teoria da arquitetura sem se referir à historicidade da
@@ -340,16 +418,23 @@ historiográfico é um instantâneo, uma foto de um certo modo de olhar
 para as fontes: um modo que comprime o espaço na singularidade da tese
 do texto histórico, e desdobra o tempo como argumento.
 
+## {data-background-image="https://i.pinimg.com/originals/81/fd/e7/81fde79ddf14703334fd83cfcba19538.jpg"}
+
 A questão é que, no ofício da Arquitetura, a foto não substitui a
 construção. O instantâneo da arquitetura não enquadra nem separa um
 aspecto em detrimento dos outros --- ao contrário, ele precisa integrar
 todos os fragmentos numa paisagem simultânea. A arquitetura tradicional
 é portanto, um olhar retrospectivo que sobrepõe, como se fosse um
 palimpsesto freudiano, a multiplicidade de camadas do passado na
-singularidade do momento presente. Ela comprime o tempo histórico na
-singularidade do presente, e se espalha no espaço da paisagem urbana ou
-rural. Essa compressão do tempo deixou de ser óbvia para nós, eruditos
-modernos e eventualmente pós-modernos.
+singularidade do momento presente. A arquitetura moderna nos obriga,
+visualmente, a considerar a fragmentação acima de todas as outras
+qualidades do ambiente construído. A arquitetura tradicional, e
+especialmente a arquitetura tradicional contemporânea, pelo contrário,
+comprime o tempo histórico na singularidade do presente, e se espalha no
+espaço da paisagem urbana ou rural. Essa compressão do tempo deixou de
+ser óbvia para nós, eruditos modernos e eventualmente pós-modernos.
+
+## {data-background-image="https://i.pinimg.com/originals/9b/82/32/9b8232391c73027aadc9c4dbe2517a95.jpg"}
 
 A própria existência da arquitetura tradicional enquanto uma categoria
 analítica válida foi desacreditada pela falência de discursos que usavam
@@ -369,6 +454,8 @@ na década de 1980. O livro de Günter Weimer, *Arquitetura popular
 brasileira*, é um marco de maturidade no reconhecimento tardio da
 diversidade de tradições construtivas no Brasil
 [@weimer:2005arquitetura].
+
+## {.unlisted}
 
 A superação dessa historiografia teleológica desde os anos 1980 se deu
 por meio do abandono da leitura disciplinar internalista --- portanto,
@@ -398,15 +485,6 @@ Só que tomar essa análise inesgotável e centrada na mudança, contínua e
 incomensurável, ao longo do tempo como o nosso marco explicativo central
 gera problemas de um ponto de vista mais estritamente disciplinar na
 arquitetura e no patrimônio.
-
-arquitetônica atual da salvaguarda da memória
-[@cymbalista:2017patrimonio] e dos *modos de fazer* tradicionais na
-esfera do patrimônio cultural [@marins:2016novos29]. 
-
-importância operativa de tais conhecimentos na conservação e restauro de
-edifícios históricos --- como atesta, em grande escala, a *recriação* de
-uma paisagem urbana de caráter vernáculo na cidade de Paraty, em meados
-do século XX.
 
 
 # Mas o Brasil não é a Europa! # {.unlisted}
@@ -451,6 +529,16 @@ exemplo, à atuação dos mestres barrocos [@oliveira:2002aleijadinho;
 dos artistas com seus clientes e as relações de trabalho, enquanto o de
 *tradição* nos coloca na perspectiva muito mais ampla da transmissão de
 saberes no tempo e no espaço.
+
+## {data-background-image="https://i.pinimg.com/originals/0f/51/9b/0f519b59cfce760dade4b1939de115ac.jpg"}
+
+Mas vamos concluir com otimismo. Por mais que as oficinas ainda sejam
+raras, a tradição arquitetônica brasileira vai de vento em popa. Os
+vários aspectos dessa tradição --- sustentabilidade ambiental,
+responsabilidade social e sensibilidade estética --- ainda estão, muitas
+vezes, percorrendo caminhos separados uns dos outros. Vamos esperar que,
+graças ao exemplo dos nossos irmãos ibéricos, esses aspectos voltem a se
+reunir numa tradição ao mesmo tempo íntegra e diversa.
 
 # palazzo@unb.br #
 
