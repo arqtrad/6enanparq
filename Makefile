@@ -33,7 +33,7 @@ _book/6enanparq.docx : _book/6enanparq.odt
 _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 	6enanparq-metadata.yaml default.opendocument reference.odt | _csl
 	pandoc -o $@ -d _spec/6enanparq-sl.yaml \
-		6enanparq-toc.md 6enanparq-intro.md \
+		index.md 6enanparq-intro.md \
 		6enanparq-palazzo.tmp 6enanparq-florentino.tmp \
 		6enanparq-duany.tmp 6enanparq-gil_cornet.tmp \
 		6enanparq-craveiro.tmp 6enanparq-metadata.yaml
