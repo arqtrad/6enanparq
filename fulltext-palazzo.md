@@ -7,18 +7,24 @@ lang       : pt-BR
 suppress-bibliography: False
 ---
 
-# Introdução #
+# Andamos em busca de uma arquitetura tradicional brasileira #
 
 ## {data-background-image="https://i.pinimg.com/originals/81/fd/e7/81fde79ddf14703334fd83cfcba19538.jpg"}
 
 Andamos em busca de uma arquitetura tradicional brasileira. Isso não é
 uma coisa para se sair dizendo à toa, especialmente por quem deveria
 reconhecer a diversidade da arquitetura e a complexidade da história.
-Então, *por que* uma arquitetura tradicional brasileira? Em primeiro
-lugar, porque a arquitetura tradicional é uma realidade tangível: a
+Então, *por que* uma arquitetura tradicional brasileira? Porque fazer
+arquitetura tradicional no século [XXI]{.smallcaps} é uma questão de
+responsabilidade ambiental, social e cultural. E, por causa dessa tripla
+responsabilidade, toda arquitetura tradicional é uma arquitetura local
+(mas é bom que tenha também um tempero cosmopolita). Mas afinal, o que é
+arquitetura tradicional?
+
+Em primeiro lugar, a arquitetura tradicional é uma realidade tangível: a
 gente pode até não saber definir o que é arquitetura tradicional, mas
 qualquer um percebe à primeira vista a diferença entre uma construção
-tradicional e outra moderna. Em segundo lugar, porque a prática de
+tradicional e outra moderna. Em segundo lugar, a prática de
 ofícios tradicionais é um processo eficiente de transmissão de
 conhecimentos relevantes para a sociedade: é daí que vem a valorização
 do patrimônio imaterial. Por último, e em consequência dos dois
@@ -153,16 +159,8 @@ privilegiando uma arquitetura *de estilo*, ou seja, obras eruditas onde
 os marcadores de um estilo específico --- certas configurações de
 ornamento ou da falta de ornamento --- são visualmente dominantes.
 
-Reciprocamente, alguns dos mais importantes historiadores do século
-[XX]{.smallcaps} --- de Sigfried Giedion a Alan Colquhoun e Reyner
-Banham [@giedion:1961space; @colquhoun:2002modern; @banham:1962guide]
---- mostraram que existe uma diferença fundamental na articulação do
-espaço entre o modernismo e a arquitetura pré-moderna, por assim dizer.
-Para além desse recorte, que ainda é tão erudito quanto o anterior,
-temos um problema mais básico. Dizer que arquitetura é espaço
-socialmente organizado pode nos dar ferramentas para analisar aquilo que
-*já se definiu* como sendo "arquitetura" --- é o caso de metodologias
-como a sintaxe espacial [@hillier:1984social]. Mas isso não nos diz *o
+Dizer que arquitetura é espaço socialmente organizado nos faz cair em
+outra dificuldade. Isso não nos diz *o
 que é* arquitetura e o que não é: ou seja, os limites da disciplina
 tanto na prática quanto na pesquisa. Em última análise, qualquer coisa
 existe no espaço e qualquer ação humana é social.
@@ -172,42 +170,25 @@ construção. As obras de arquitetura são construções --- e *todas* as
 construções são arquitetura. O universo disciplinar que diz respeito à
 arquitetura, portanto, é o de todos os processos em torno à construção.
 
-## {data-background-image="https://i.pinimg.com/originals/d9/ab/c1/d9abc1658e244a1de600b86f0a509864.jpg"}
+## {data-background-image=""}
 
-Nesse contexto, existe uma diferença simples entre a arquitetura
-*tradicional* e a *moderna* que vai além do estilo ou da espacialidade
-que distinguem o *modernismo* do *tradicionalismo*. Essa diferença está
-justamente nos processos de produção das construções, que podem ser
-predominantemente artesanais e locais, na arquitetura tradicional, ou
-industrializados e com cadeias produtivas muito extensas, na arquitetura
-moderna. Essa distinção entre processos construtivos tradicionais ou
-modernos nem sempre se rebate numa distinção clara entre estilos
-tradicionalistas ou modernistas.
-
-A arquitetura tradicional, e portanto os modos tradicionais de
-construir, são processos predominantemente locais no que diz respeito
-tanto à obtenção de materiais quanto ao seu processamento. Ressalvadas
-as devidas exceções na arquitetura monumental, a construção tradicional
-é uma empreitada local ou, no máximo, regional. De resto, a lenda de que
-as igrejas coloniais de Salvador teriam sido construídas com pedras
-trazidas como lastro de navios é isso mesmo: uma lenda, como demonstrou
-Mário Mendonça. O paradoxo positivo da arquitetura tradicional é esse:
-ela tem um princípio universal que gera uma infinita diversidade de
-resultados --- diferentes sistemas construtivos, configurações espaciais
-e articulações plásticas.
-
-Dito de modo mais tangível: como a cadeia produtiva da construção
-tradicional é predominantemente local e regional, o processamento dos
-materiais de construção tende a ser mais simples, menos intenso e,
-claro, menos industrializado. Desse processo resultam duas
-características construtivas tangíveis:
+Aqui finalmente chegamos numa base sólida. A diferença entre arquitetura
+tradicional e moderna é óbvia à primeira vista na maioria dos casos, e
+isso porque ela se resume a duas características simples. Essas
+características dizem respeito aos modos predominantes de expressar
+plasticamente a construção:
 
 ## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-1. Compressão é preferível à flexão
+1. A arquitetura tradicional expressa sobretudo a massa dos elementos à
+   compressão; a arquitetura moderna expressa sobretudo o alcance dos
+   elementos à flexão.
 
-2. Repetição com variações
+2. O ambiente construído tradicional é feito de edifícios que seguem um
+   mesmo tipo, compostos com elementos ligeiramente diferentes entre si;
+   o ambiente construído moderno é feito de criações autorais compostas
+   com elementos industriais idênticos entre si.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/da/52/15/da52151d618cae83acf3dc002e938f02.jpg"}
@@ -233,7 +214,108 @@ obra para a outra.
 
 # Modo de fazer #
 
-A tradição como operatividade é o problema mais espinhoso deste ensaio.
+## {data-background-image="https://i.pinimg.com/originals/3e/36/90/3e3690121c8737637b9e207bd91c4ec4.jpg"}
+
+Se a arquitetura tradicional é um objeto com características tangíveis,
+o modo de fazer arquitetura tradicional é igualmente definido. Ele vai
+da organização do trabalho ao sistema de financiamento da construção,
+passando pelas tecnologias tangíveis e intangíveis usadas no processo
+produtivo. A expressão plástica da arquitetura tradicional pode ser
+imitada na construção moderna, e tem sido imitada com muito sucesso
+desde o século [XIX]{.smallcaps}. Longe de mim censurar o ecletismo. Mas
+o que estamos buscando aqui é integrar todos os aspectos do processo
+construtivo tradicional. Essa integração é a chave da sustentabilidade
+que encontramos nas tradições arquitetônicas.
+
+## {data-background-image="https://i.pinimg.com/originals/7c/a8/48/7ca848ed6ff82fd50a2ad428bb1dcd34.jpg"}
+
+## {data-background-image="https://i.pinimg.com/originals/d9/ab/c1/d9abc1658e244a1de600b86f0a509864.jpg"}
+
+Para isso, existe uma diferença simples entre a arquitetura
+*tradicional* e a *moderna* que vai além do estilo ou da espacialidade
+que distinguem o *modernismo* do *tradicionalismo*. Essa diferença está
+justamente nos processos de produção das construções, que podem ser
+predominantemente artesanais e locais, na arquitetura tradicional, ou
+industrializados e com cadeias produtivas muito extensas, na arquitetura
+moderna. Essa distinção entre processos construtivos tradicionais ou
+modernos nem sempre se rebate numa distinção clara entre estilos
+tradicionalistas ou modernistas.
+
+## {data-background-image=""}
+
+A arquitetura tradicional, e portanto os modos tradicionais de
+construir, são processos predominantemente locais no que diz respeito
+tanto à obtenção de materiais quanto ao seu processamento. Ressalvadas
+as devidas exceções na arquitetura monumental, a construção tradicional
+é uma empreitada local ou, no máximo, regional. De resto, a lenda de que
+as igrejas coloniais de Salvador teriam sido construídas com pedras
+trazidas de Portugal como lastro de navios é isso mesmo: uma lenda, como
+demonstrou Mário Mendonça.
+
+O paradoxo positivo da arquitetura tradicional é esse: ela tem um
+princípio universal que gera uma infinita diversidade de resultados ---
+diferentes sistemas construtivos, configurações espaciais e articulações
+plásticas.
+
+## {data-background-image="https://i.pinimg.com/originals/b9/73/b9/b973b91bf419a2b637faa06aec627c6c.jpg"}
+
+Dito de modo mais direto: como a cadeia produtiva da construção
+tradicional é predominantemente local e regional, o processamento dos
+materiais de construção tende a ser mais simples, menos intenso e,
+claro, menos industrializado. O discurso da sustentabilidade tecnológica
+inventou o conceito de ciclo de vida. Isso parece um avanço quando
+comparado à construção moderna que não se preocupava com o ciclo de
+vida: claro que é muito melhor se os nossos componentes industrializados
+vierem com uma etiqueta dizendo que eles duram cinquenta anos e que eles têm
+uma pegada de carbono mensurável.
+
+## {data-background-image=""}
+
+Como que a pobre da arquitetura arquitetura tradicional vai poder
+competir com tanta etiquetagem? Não existe análise de ciclo de vida
+possível para as construções tradicionais. Quem vai conseguir medir a
+pegada de carbono de um edifício que foi feito para durar, não
+cinquenta, mas quinhentos anos? E um que continua de pé há dois mil anos
+então?
+
+## {.unlisted}
+
+Antes que me acusem de ceder ao viés de sobrevivência: a questão não é
+(só) estatística. Quando dizemos que os processos produtivos da
+construção tradicional são mais sustentáveis e resilientes, não é com
+base em anedotas. A construção tradicional é intrinsecamente mais
+propensa à durabilidade por três motivos:
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+Processo adaptativo
+
+: As formas arquitetônicas tradicionais resultam de adaptações
+  sucessivas, testando incrementos pontuais em vez de fazer grandes
+  experimentos que correm o risco de dar muito errado de uma vez.
+
+Produção artesanal
+
+: A *produção* artesanal do ambiente construído implica que a
+  *manutenção* das construções também pode ser artesanal. Nada de
+  depender de um componente que saiu de linha, ou de uma fachada que
+  precisa ser substituída por inteiro quando falha.
+
+Saber local
+
+: As competências técnicas tanto para a construção quanto para a
+  manutenção da arquitetura tradicional pertencem normalmente à
+  comunidade local ou regional; isso não só aumenta a resiliência da
+  construção local, como também preserva ofícios bem remunerados na
+  própria localidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+Aí você pode me dizer, "mas eu não estou interessado em durabilidade,
+estou interessado no progresso da técnica, ou na liberdade artística". É
+direito seu, mas é responsabilidade sua também. Sigamos.
+
+## {data-background-image=""}
 
 Objetos do passado a serem preservados vs saberes a serem mantidos
 
@@ -242,22 +324,14 @@ Coitadismo dos atrasados
 Técnicas de conservação e restauro enclausuradas vs construção
 tradicional como prática viva
 
-A tradição é *parte da realidade,* mas também *ferramenta para explicar
-essa mesma realidade.* Essa dupla natureza da tradição é indispensável
-ao resgate de uma historiografia disciplinar da arquitetura --- por um
-lado, *versando sobre* a arquitetura enquanto ofício e processo de
-produção do ambiente construído e, por outro lado, *fazendo parte* dos
-atributos disciplinares do ofício de arquiteto. O conceito de *tradição*
-expande o alcance do conceito de *oficina,* atualmente aplicado, por
-exemplo, à atuação dos mestres barrocos [@oliveira:2002aleijadinho;
-@pedrosa:2013oficina29] --- ao passo que *oficina* engloba as relações
-materiais dos artistas com seus clientes e as relações de trabalho,
-*tradição* resgata os aspectos propriamente artísticos do seu trabalhas
-relações de trabalho, aquele resgata os aspectos propriamente artísticos
-da sua atuação.
-
 
 # Lugar > Tempo #
+
+Até agora, vimos que a diferença entre arquitetura tradicional e moderna
+é tangível e, em geral, evidente. Também vimos que a arquitetura
+tradicional não se caracteriza só por essa diferença aparente, mas que
+se trata sobretudo de adotar processos produtivos sustentáveis do ponto
+de vista ambiental, social e cultural.
 
 Hoje em dia, pelo menos no nosso mundo acadêmico, é quase impossível
 falar de teoria da arquitetura sem se referir à historicidade da
@@ -341,8 +415,43 @@ do século XX.
 
 # Mas o Brasil não é a Europa! #
 
+Agora é a hora que todo mundo diz: "ah! mas isso pode até funcionar no
+primeiro mundo... a Europa pode se dar o luxo de fazer arquitetura
+tradicional porque eles são ricos. No Brasil nunca vai dar certo!"
+Alguns dirão que estamos condenados a ser modernos...
+
+É certo que a construção industrializada tem um brilhante futuro pela
+frente. A arquitetura alavancada pelo mercado financeiro --- do
+investimento do especulador imobiliário ao endividamento do consumidor
+final --- está no centro das políticas públicas da atualidade, mesmo as
+da esquerda moderada.
+
+Diante desse quadro, andar em busca de uma arquitetura tradicional
+brasileira é uma forma de resistência, mas também uma lição de
+humildade. É resistência porque a tradição oferece um modelo de processo
+construtivo que é descentralizado, resiliente, e porque ela distribui
+tanto o controle sobre a cadeia produtiva quanto a renda que ela gera
+para as comunidades locais e para os trabalhadores manuais da
+construção. E é uma lição de humildade porque estudar a tradição nos faz
+pensar no tanto que os arquitetos e engenheiros contemporâneos se
+beneficiaram da concentração de poder e renda na construção moderna, em
+detrimento dos saberes locais e periféricos.
+
 Os saberes e modos de vida das comunidades são indissociáveis dos
 processos de produção do ambiente construído.
+
+A tradição é *parte da realidade,* mas também *ferramenta para explicar
+essa mesma realidade.* Essa dupla natureza da tradição é indispensável
+ao resgate de uma historiografia disciplinar da arquitetura --- por um
+lado, *versando sobre* a arquitetura enquanto ofício e processo de
+produção do ambiente construído e, por outro lado, *fazendo parte* dos
+atributos disciplinares do ofício de arquiteto. O conceito de *tradição*
+expande o alcance do conceito de *oficina,* atualmente aplicado, por
+exemplo, à atuação dos mestres barrocos [@oliveira:2002aleijadinho;
+@pedrosa:2013oficina29]. O termo *oficina* engloba as relações materiais
+dos artistas com seus clientes e as relações de trabalho, enquanto o de
+*tradição* nos coloca na perspectiva muito mais ampla da transmissão de
+saberes no tempo e no espaço.
 
 # Referências # {.unnumbered}
 
